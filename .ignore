@@ -1,0 +1,9 @@
+# Ignore any binaries
+bin/
+
+# Ignore any build files
+build/
+
+# Ignore third-party dependencies when filtering files in workspace
+extern/
+
