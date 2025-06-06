@@ -24,3 +24,7 @@ This template follows this general structure:
 
 Most projects I develop are not external libraries these days. But if intended for external use, a separate 'include' directory should be created.
 
+## Issues and Pull Requests
+
+Being that this template is mostly aimed at my own personal use, I have disabled issue tracking. PRs will most likely be ignored.
+
